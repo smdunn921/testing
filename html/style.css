@@ -79,7 +79,7 @@ html, body{
     margin: 0;
     padding: 0;
 }
-.content {
+#content {
     margin: 2%;
 }
 body {
