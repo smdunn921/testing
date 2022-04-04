@@ -4,7 +4,7 @@
     display: flex;
     width: 100%;
     overflow: hidden;
-    background-color: #8B0000;
+    background-color: #1ac6ff;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -15,7 +15,7 @@
    float: left;
     font-size: 16px;
     text-align: center;
-    color: #FFD700;
+    color: black;
     padding: 14px 16px;
     text-decoration: none;
     z-index: 501;
@@ -28,7 +28,7 @@
     font-size: 16px;
     border: none;
     outline: none;
-    color: #FFD700;
+    color: white;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -40,7 +40,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #8B0000;
+    background-color: #006080;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -51,7 +51,7 @@
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    text-align: left;
+    text-align: center;
 }
 .dropdown-content a:hover {
     background-color: #F5F5F5;
