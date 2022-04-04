@@ -92,15 +92,14 @@ html, body{
     margin: 2%;
     margin-top: 7%;
 }
-#bottom {
-    padding-top: 20%;
-    
-}
 body {
     background-color: #666666;
     color: #ffffff;
     font-family: Verdana;
     font-size: 16px
+}
+#bottom {
+    margin-top: 20%;
 }
 h1 {
     color: #0C0C0C;
