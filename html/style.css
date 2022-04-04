@@ -76,8 +76,11 @@
 
 /* shd: body css */
 html, body{
-    margin: 3%;
+    margin: 0;
     padding: 0;
+}
+.content {
+    margin: 2%;
 }
 body {
     background-color: #666666;
