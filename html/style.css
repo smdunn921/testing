@@ -63,6 +63,12 @@
 /* shd: end navbar css */
 
 /* shd: sticky css */
+.cfix:after {
+    display:block;
+    clear:both;
+    justify-content: space-around;
+}
+
 .sticky {
   position: fixed;
   top: 0;
