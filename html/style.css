@@ -92,6 +92,10 @@ html, body{
     margin: 2%;
     margin-top: 7%;
 }
+#bottom {
+    margin-top: 20%;
+    
+}
 body {
     background-color: #666666;
     color: #ffffff;
