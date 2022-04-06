@@ -5,7 +5,6 @@
     justify-content: center;
     align-items: center;
     background-color: #666666;
-    color: #006080;
 }
 /* shd: end header css */
 /* shd: navbar css */
@@ -14,14 +13,13 @@
     width: 100%;
     overflow: hidden;
     background-color: #1ac6ff;
-    display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     z-index: 500;
 }
 .navbar a {
-   float: left;
+    float: left;
     font-size: 16px;
     text-align: center;
     color: black;
@@ -118,6 +116,4 @@ h2 {
     color:#c8b4c7;
     text-align:center;
 }
-
-
-
+/* shd: end body css */
