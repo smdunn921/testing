@@ -1,4 +1,13 @@
-
+/* shd: header css */
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #666666;
+    color: #006080;
+}
+/* shd: end header css */
 /* shd: navbar css */
 .navbar {
     display: flex;
